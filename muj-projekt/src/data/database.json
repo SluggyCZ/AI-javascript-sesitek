@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1731333217100,
+      "username": "osoba1",
+      "email": "osoba1@gmail.com",
+      "password": "$2a$10$lJJZRWYNKLCo.LmGGlegy.KW293gvI6ZUdk.VWxxaJKcFsP3klWK2"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1731333229373,
+      "userId": 1731333217100,
+      "content": "čau jak se mas"
+    }
+  ]
+}
