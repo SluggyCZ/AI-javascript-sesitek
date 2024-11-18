@@ -1,5 +1,9 @@
+
+<link rel="stylesheet" href="/css/style.css">
+<h1>Sešitek</h1>
 <form action="/notebook" method="post">
     <textarea name="content" placeholder="Write your notes here..."><%= note ? note.content : '' %></textarea>
+    <br>
     <button type="submit">Save</button>
   </form>
   <a href="/logout">Logout</a>

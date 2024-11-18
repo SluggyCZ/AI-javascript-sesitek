@@ -7,6 +7,7 @@ const notebookRoutes = require('./routes/notebookRoutes');
 const app = express();
 const path = require('path');
 app.set('views', path.join(__dirname, 'views')); // Nastaví správný adresář pro views
+app.use(express.static(path.join(__dirname, '../public')));
 app.set('view engine', 'ejs'); // Nastaví EJS jako šablonovací engine
 
 app.set('view engine', 'ejs');
