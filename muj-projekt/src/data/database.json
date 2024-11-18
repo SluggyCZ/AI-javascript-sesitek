@@ -5,6 +5,12 @@
       "username": "osoba1",
       "email": "osoba1@gmail.com",
       "password": "$2a$10$lJJZRWYNKLCo.LmGGlegy.KW293gvI6ZUdk.VWxxaJKcFsP3klWK2"
+    },
+    {
+      "id": 1731923472446,
+      "username": "celba",
+      "email": "celbat22@spstrutnov.cz",
+      "password": "$2a$10$CfedFVJ62DX5aGVUQzYr1up0XlVztKQVas7Q2jl1FZXbiIioIBE4C"
     }
   ],
   "notes": [
@@ -12,6 +18,11 @@
       "id": 1731333229373,
       "userId": 1731333217100,
       "content": "čau jak se mas"
+    },
+    {
+      "id": 1731923507977,
+      "userId": 1731923472446,
+      "content": "to teda pisu cau\r\n"
     }
   ]
 }
